@@ -148,7 +148,6 @@ numpy
 ```
 smnet-breakhis-classification/
 ├── README.md
-├── LICENSE
 ├── smnet_40x.ipynb
 ├── smnet_100x.ipynb
 ├── smnet_200x.ipynb
